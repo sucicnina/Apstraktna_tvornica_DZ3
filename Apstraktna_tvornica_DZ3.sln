@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apstraktna_tvornica_DZ3", "Apstraktna_tvornica_DZ3\Apstraktna_tvornica_DZ3.csproj", "{70FD56EA-ED5C-4670-9AF5-83C30E17E016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FD56EA-ED5C-4670-9AF5-83C30E17E016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FD56EA-ED5C-4670-9AF5-83C30E17E016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FD56EA-ED5C-4670-9AF5-83C30E17E016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FD56EA-ED5C-4670-9AF5-83C30E17E016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9887791-5270-4E46-B0F0-B70045A03AD6}
+	EndGlobalSection
+EndGlobal
